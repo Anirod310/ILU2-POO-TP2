@@ -1,4 +1,4 @@
-package controleur;
+	package controleur;
 
 import villagegaulois.Etal;
 import villagegaulois.Village;
